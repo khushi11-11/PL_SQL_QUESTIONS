@@ -1,0 +1,3 @@
+SET SERVEROUTPUT ON;
+
+SELECT * FROM Employee WHERE emp_salary<=70000;
